@@ -298,7 +298,7 @@ var json_Radius_Pemantauan_3 = {
         Kelembaban: kelembaban_dht22_titik5,
         xcoord: 106.84831,
         ycoord: -6.17185,
-        Foto: "../../TA_SIG/Foto/Foto 1.png",
+        Foto: "foto1.png",
       },
       geometry: {
         type: "MultiPolygon",
